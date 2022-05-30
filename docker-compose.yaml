@@ -1,5 +1,5 @@
 services:
-  yes2:
+  yes3:
     build: .
     shm_size: 2.6gb
     ports:
